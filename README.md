@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 About Me
+한국외국어대학교 정보통신공학과 재학중인 __김성훈__ 입니다.
 
-<!--
-**ksungh1126/ksungh1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+넓게 배우고, 연결하여 이해하는것을 좋아합니다.
 
-Here are some ideas to get you started:
+## 🎯 What I Do
+ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Embedded AI
+
+## 💡 Strengths
+정보통신분야에서 닦은 전반적인 네트워크 지식을 토대로, 어떠한 부분에서 어떠한 리소스가 __"왜?"__ 사용되는지에 대한 이해가 깊습니다.
+
+그리고 __끈질깁니다.__
+
+## 🛠 Tech Stack
+Language : C, PYTHON
+
+Tools:
+
+## 📌 Experience
+[프로젝트명] – [한 줄 설명]
+
+[프로젝트명] – [한 줄 설명]
+
+## 🚀 Goal
+앞으로 [어떤 개발자/엔지니어]로 성장하고 싶습니다.
